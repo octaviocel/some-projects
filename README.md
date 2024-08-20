@@ -3,3 +3,5 @@
  
 ## [Project 1 - Tindare Fake](01TinderSwipe/README.md)
 
+## [Project 2 - Arkanoid](02Arkanoid/README.md)
+
